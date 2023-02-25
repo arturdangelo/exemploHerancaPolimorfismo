@@ -1,0 +1,15 @@
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\bin\Debug\net7.0\Secao10_Exercicio_Fixacao1.exe
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\bin\Debug\net7.0\Secao10_Exercicio_Fixacao1.deps.json
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\bin\Debug\net7.0\Secao10_Exercicio_Fixacao1.runtimeconfig.json
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\bin\Debug\net7.0\Secao10_Exercicio_Fixacao1.dll
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\bin\Debug\net7.0\Secao10_Exercicio_Fixacao1.pdb
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.csproj.AssemblyReference.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.AssemblyInfoInputs.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.AssemblyInfo.cs
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.csproj.CoreCompileInputs.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.dll
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\refint\Secao10_Exercicio_Fixacao1.dll
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.pdb
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\Secao10_Exercicio_Fixacao1.genruntimeconfig.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Secao10_Exercicio_Fixacao1\obj\Debug\net7.0\ref\Secao10_Exercicio_Fixacao1.dll
